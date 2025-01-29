@@ -1,4 +1,4 @@
-# 💻 Hey there! I'm Mahdi khodabakhshi 👋
+# 💻 Hey there! I'm Mahdi  👋
 
 ## 🚀 Junior Full-Stack Developer | Spring Boot & Angular Enthusiast
 
