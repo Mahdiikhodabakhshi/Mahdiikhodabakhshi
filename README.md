@@ -40,8 +40,7 @@ I'm a **Junior Full-Stack Developer** passionate about building scalable and eff
 ---
 
 ## 📫 Let's Connect!
-🔗 **GitHub**: [github.com/your-username](https://github.com/your-username)  
-📧 **Email**: your.email@example.com  
-💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📧 **Email**: mahdii.khodabakhshi@gmail.com  
+
 
 Let's build something great together! 🚀🔥
