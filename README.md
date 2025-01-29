@@ -1,8 +1,8 @@
 # 💻 Hey there! I'm Mahdi  👋
 
-## 🚀 Junior Full-Stack Developer | Spring Boot & Angular Enthusiast
+## 🚀  Full-Stack Developer | Spring Boot & Angular Enthusiast
 
-I'm a **Junior Full-Stack Developer** passionate about building scalable and efficient applications using **Spring Framework** for the backend and **Angular** for the frontend. I love **clean architecture, SOLID principles, and design patterns**, ensuring high-quality and maintainable code.  
+I'm a **Full-Stack Developer** passionate about building scalable and efficient applications using **Spring Framework** for the backend and **Angular** for the frontend. I love **clean architecture, SOLID principles, and design patterns**, ensuring high-quality and maintainable code.  
 
 ---
 ## Languages and Tools:
